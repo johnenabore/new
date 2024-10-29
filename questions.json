@@ -1,0 +1,15 @@
+{
+    "questions":[
+    {
+        "question": "In what galaxy is our solar system located?",
+        "options": ["Andromeda Galaxy","Milky Way Galaxy","Triangulum Galaxy","Sombrero Galaxy"],
+        "answer": "Milky Way Galaxy",
+        "trivia": "Our solar system is part of the Milky Way Galaxy, which is a barred spiral galaxy containing billions of stars, including our Sun!"
+    },
+    {
+        "question": "2+2",
+        "options": ["2","3","4","1"],
+        "answer": "4"
+    }
+    ]
+}
